@@ -4,23 +4,6 @@ Built a responsive finance dashboard using React, Tailwind CSS, and Recharts to 
 
 ---
 
-## 🚀 Quick Start
-
-```bash
-# 1. Install dependencies
-npm install
-
-# 2. Start development server
-npm run dev
-
-# 3. Build for production
-npm run build
-```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser.
-
----
-
 ## 📦 Tech Stack
 
 | Tool | Purpose |
