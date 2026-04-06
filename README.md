@@ -1,6 +1,6 @@
 # FinSet – Financial Dashboard
 
-A clean, interactive finance dashboard built with **React + Tailwind CSS + Recharts**, closely matching the FinSet UI design.
+A clean, interactive finance dashboard built with **React + Tailwind CSS + Recharts**.
 
 ---
 
