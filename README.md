@@ -110,10 +110,3 @@ src/
 - **Responsive**: collapses to single-column on mobile; sidebar narrows
 
 ---
-
-## 📝 Optional Enhancements (not implemented)
-- Mock API integration (swap `mockData.js` with fetch calls)
-- Advanced date range filtering
-- Transaction categories management
-- Goal tracking page
-- Wallet page with multi-account support
