@@ -1,6 +1,6 @@
 # FinSet – Financial Dashboard
 
-A clean, interactive finance dashboard built with **React + Tailwind CSS + Recharts**.
+Built a responsive finance dashboard using React, Tailwind CSS, and Recharts to track income, expenses, and financial insights. Implemented interactive charts, transaction management (CRUD), role-based access control, dark mode, and localStorage-based persistence, with advanced filtering, sorting, and CSV export features.
 
 ---
 
