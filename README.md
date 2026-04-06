@@ -100,13 +100,3 @@ src/
 ```
 
 ---
-
-## 🎨 Design Notes
-
-- **Font**: DM Sans (body) + DM Mono (numbers)
-- **Accent color**: Violet-600 (`#7c3aed`) throughout
-- **Border radius**: 2xl (16px) on cards, xl on controls
-- **Hover states**: subtle lift (`-translate-y-0.5`) + shadow upgrade
-- **Responsive**: collapses to single-column on mobile; sidebar narrows
-
----
